@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://e0.pxfuel.com/wallpapers/809/661/desktop-wallpaper-engineering-for-engineer-design.jpg');
+    background-repeat:  repeat;
+    background-size: contain;
+}
+section{
+    opacity: 0.9;
+}
+#sobremi{
+    background-color:rgb(200, 232, 253);
+}
+#habilidades{
+    background-color: rgb(200, 232, 253);
+}
+#solidworks{
+    background-color: rgb(200, 232, 253);
+}
+#proyectosjs{
+    background-color: rgb(200, 232, 253);
+    opacity: 0.95;
+}
